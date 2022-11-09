@@ -15,6 +15,11 @@
     // Do any additional setup after loading the view.
 }
 
+- (void)dummyTest
+{
+    
+}
+
 
 - (void)setRepresentedObject:(id)representedObject {
     [super setRepresentedObject:representedObject];
